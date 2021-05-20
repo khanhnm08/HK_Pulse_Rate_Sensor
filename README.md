@@ -1,1 +1,1 @@
-# HK_Heart_Pulse_Sensor
+# HK_Pulse_Rate_Sensor
